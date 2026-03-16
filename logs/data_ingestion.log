@@ -1,2 +1,16 @@
 2026-03-15 22:43:51,718 - data_ingestion - ERROR - File not found: params.yaml
 2026-03-15 22:43:51,718 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2026-03-15 23:06:11,658 - data_ingestion - ERROR - File not found: params.yaml
+2026-03-15 23:06:11,658 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2026-03-15 23:07:54,252 - data_ingestion - ERROR - File not found: params.yaml
+2026-03-15 23:07:54,253 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2026-03-15 23:14:32,966 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-03-15 23:14:32,966 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'NoneType' object is not subscriptable
+2026-03-15 23:15:54,556 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-03-15 23:15:54,556 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'NoneType' object is not subscriptable
+2026-03-16 11:15:19,473 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-03-16 11:15:19,474 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'NoneType' object is not subscriptable
+2026-03-16 11:18:41,712 - data_ingestion - ERROR - Failed to complete the data ingestion process: params.yaml is empty or incorrectly formatted
+2026-03-16 11:19:37,929 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/kumawatmanish05/MLOPS-Complete-ML-Pipeline/refs/heads/main/Experiments/spam.csv
+2026-03-16 11:19:37,936 - data_ingestion - DEBUG - Data preprocessing completed
+2026-03-16 11:19:37,955 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
