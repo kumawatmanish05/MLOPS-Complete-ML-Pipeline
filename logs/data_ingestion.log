@@ -14,3 +14,12 @@
 2026-03-16 11:19:37,929 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/kumawatmanish05/MLOPS-Complete-ML-Pipeline/refs/heads/main/Experiments/spam.csv
 2026-03-16 11:19:37,936 - data_ingestion - DEBUG - Data preprocessing completed
 2026-03-16 11:19:37,955 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-03-16 12:23:48,565 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/kumawatmanish05/MLOPS-Complete-ML-Pipeline/refs/heads/main/Experiments/spam.csv
+2026-03-16 12:23:48,567 - data_ingestion - DEBUG - Data preprocessing completed
+2026-03-16 12:23:48,580 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-03-16 12:27:59,560 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/kumawatmanish05/MLOPS-Complete-ML-Pipeline/refs/heads/main/Experiments/spam.csv
+2026-03-16 12:27:59,566 - data_ingestion - DEBUG - Data preprocessing completed
+2026-03-16 12:27:59,583 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-03-16 12:28:33,727 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/kumawatmanish05/MLOPS-Complete-ML-Pipeline/refs/heads/main/Experiments/spam.csv
+2026-03-16 12:28:33,729 - data_ingestion - DEBUG - Data preprocessing completed
+2026-03-16 12:28:33,741 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
